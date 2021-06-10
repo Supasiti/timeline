@@ -267,7 +267,6 @@ main {
 .container {
   max-width: 1200px;
   margin: 0px auto;
-  background-color: #73CCA8; /*  testing */
 }
 
 /* should take about 1/3 of the screen */
